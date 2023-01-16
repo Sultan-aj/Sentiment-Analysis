@@ -1,0 +1,7 @@
+SentimentAnalysis.code-workspace
+src/train1.py
+src/train2.py
+src/predict2.py
+data/aclImdb/test/
+models/sentiment_model2
+data/aclImdb2
