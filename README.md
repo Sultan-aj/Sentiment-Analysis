@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repository and install the dependencies using pip:
 
 ```bash
-git clone https://github.com/Sultan-aj/sentiment-analysis-model.git
+git clone https://github.com/Sultan-aj/Sentiment-Analysis.git
 pip install -r requirements.txt
 ```
 
