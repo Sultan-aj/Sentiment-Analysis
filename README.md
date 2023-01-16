@@ -1,6 +1,6 @@
 # Sentiment Analysis Model
 
-This project is a sentiment analysis model that can classify text as positive or negative The model is trained on a dataset of movie reviews and can be used to classify the sentiment of any text.
+This project is a sentiment analysis model that can classify text as positive or negative. The model is trained on a dataset of movie reviews and can be used to classify the sentiment of any text.
 
 ## Getting Started
 
